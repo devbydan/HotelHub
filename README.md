@@ -29,9 +29,7 @@ B -->|Accountant| G[Manage Reports]
 
 <kbd>Command/ctrl + R</kbd> - Reload
 
-<kbd>command + q</kbd> - Quit App (while window is open).
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+<kbd>command + q</kbd> - Quit Application
 
 
 ## Built with
