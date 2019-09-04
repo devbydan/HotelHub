@@ -24,6 +24,7 @@ B -->|Restaurant| E[Manage Inventory]
 B -->|Cleaner| F[Access Rooms]
 B -->|Accountant| G[Manage Reports]
 ```
+![Screenshot](https://github.com/pseudodan/HotelHub/blob/master/HotelHub_UML.png)
 
 ## Usage
 
